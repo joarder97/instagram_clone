@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="269f64a1-2ce8-494a-ab00-95fd29a7e250" name="Default Changelist" comment="" />
+    <list default="true" id="269f64a1-2ce8-494a-ab00-95fd29a7e250" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/sass/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/resources/sass/_variables.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/home.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/resources/views/layouts/app.blade.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +22,9 @@
         <option value="composer.json" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -132,6 +140,9 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1iW1XQ5ON7l5qUf4lpbLOygET1S" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -160,7 +171,8 @@
       <updated>1602008574345</updated>
       <workItem from="1602008575823" duration="1310000" />
       <workItem from="1602089712177" duration="1271000" />
-      <workItem from="1602220098056" duration="1274000" />
+      <workItem from="1602220098056" duration="2662000" />
+      <workItem from="1602333412486" duration="3704000" />
     </task>
     <servers />
   </component>
@@ -168,6 +180,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="604" y="341" key="NewPhpFileDialog" timestamp="1602333613430">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="604" y="341" key="NewPhpFileDialog/0.0.1536.834@0.0.1536.834" timestamp="1602333613430" />
     <state x="377" y="125" key="SettingsEditor" timestamp="1602220140965">
       <screen x="0" y="0" width="1536" height="834" />
     </state>
